@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/Media-Controls-Pause-icon.png</file>
+        <file>icons/Media-Controls-Stop-icon.png</file>
+        <file>icons/open-file-icon.png</file>
+        <file>icons/Play-icon.png</file>
+        <file>icons/YouTube-icon.png</file>
+    </qresource>
+</RCC>
